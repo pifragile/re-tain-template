@@ -4,6 +4,12 @@
 <head>
     <title>re-tain.xyz Project</title>
     <script>
+        window.capturePreview = false;
+
+        function triggerPreview() {
+            window.capturePreview = true;
+        }
+
         function sfc32(a, b, c, d) {
             return function () {
                 a >>>= 0;
