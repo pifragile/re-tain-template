@@ -13,7 +13,7 @@ If you would like to generate a random hash on refresh for development, uncommen
 ```
 
 ## Preview Images
-Call the `triggerPreview()` function at the point when you would like the preview image to be captures.
+Call the `triggerPreview()` function at the point when you would like the preview image to be captured.
 Preview image size will be 1000x1000px rendered in a headless Google Chrome on an Ubuntu machine.
 
 ## Questions?
