@@ -13,7 +13,7 @@ If you would like to generate a random hash on refresh for development, uncommen
         //hash = getRandomHash()
 ```
 Make sure that you comment out this line again before releasing your project.
-
+For the final submission, you are not allowed to change any code in `retain.js`, `hash.js` or `init.js`, otherwise your porject will not work propoerly.
 
 ## Preview Images
 Call the `triggerPreview()` function at the point when you would like the preview image to be captured.

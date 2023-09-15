@@ -12,6 +12,7 @@ function setup() {
 
 function draw() {
     pg.noStroke();
+    pg.background(90)
     for (let i = 0; i < 20; i++) {
         pg.fill(randRT() * 255, 0, 0);
         pg.circle(
